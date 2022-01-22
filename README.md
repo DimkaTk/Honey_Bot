@@ -1,2 +1,2 @@
 # Honey_Bot
-Telegram-bot for somthg
+Telegram-bot for ordering food in (small) restraunts. 
